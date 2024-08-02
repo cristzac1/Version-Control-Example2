@@ -1,0 +1,4 @@
+repository "Version Control Example2@PsychoSasquatch@cloud"
+  path "/"
+    br "/main"
+    co "/main"
